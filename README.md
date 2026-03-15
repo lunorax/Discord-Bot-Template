@@ -7,3 +7,7 @@ A clean, modular, and ready-to-use template for building powerful Discord bots. 
 ## ✨ Features
 
 ---
+
+## 🔨 Set-up
+
+---
